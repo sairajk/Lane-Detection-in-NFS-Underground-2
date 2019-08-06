@@ -1,4 +1,4 @@
-# Detecting Lanes in NFS UNderground 2
+# Detecting Lanes in NFS Underground 2
 
 This project aims to detect lanes in one of the popular racing games, __NFS Underground 2__. For this, I used various image precessing techniques to detect lanes frame by frame from the image stream captured from the game. All the processing is done in real time, i.e. the lanes are detected simultaneously as the game is played.
 
